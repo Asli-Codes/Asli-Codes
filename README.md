@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aslı</h1>
 <h3 align="center">A self-motivated computer engineering student who is eager to improve and grow continuously.</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🔭 I’m currently working on **spending tracking project**
+
+- 🌱 I’m currently learning **Python and C#**
+
+- 💬 Ask me about **my university and my projects**
 
 - 📫 How to reach me **filizogluasli05@gmail.com**
+
+- ⚡ Fun fact **I have an obsession with learning new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
